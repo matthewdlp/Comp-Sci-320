@@ -1,1 +1,1 @@
-# Comp-Sci-320
+Repository for git setup, Matthew De La Puente
